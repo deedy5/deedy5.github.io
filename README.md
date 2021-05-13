@@ -203,9 +203,9 @@ or visit a museum. Focus on the details, such as what you’ll wear, when you’
 ```
 28. Touch something comforting
 ```
-This could be your favorite blanket, a much-loved T-shirt, a smooth stone, a soft carpet, or anything that feels 
-good to touch. Think about how it feels under your fingers or in your hand. If you have a favorite sweater, scarf, 
-or pair of socks, put them on and spend a moment thinking about the sensation of the fabric on your skin. 
+This could be your favorite blanket, a much-loved T-shirt, a smooth stone, a soft carpet, or anything that 
+feels good to touch. Think about how it feels under your fingers or in your hand. If you have a favorite sweater, 
+scarf, or pair of socks, put them on and spend a moment thinking about the sensation of the fabric on your skin. 
 ```
 29. List positive things
 ```
