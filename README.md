@@ -82,10 +82,9 @@ Curl your fingers and wiggle your toes. Are you barefoot or in shoes? How does t
 11. Try the 5-4-3-2-1 method
 ```
 Working backward from 5, use your senses to list things you notice around you. For example, you might start by 
-listing five things you hear, then four things you see, then three things you can touch from where you’re sitting, 
-two things you can smell, and one thing you can taste. 
-Make an effort to notice the little things you might not always pay attention to, such as the color of the flecks 
-in the carpet or the hum of your computer. 
+listing five things you hear, then four things you see, then three things you can touch from where you’re 
+sitting, two things you can smell, and one thing you can taste. Make an effort to notice the little things you 
+might not always pay attention to, such as the color of the flecks in the carpet or the hum of your computer. 
 ```
 ---
 ### Mental techniques
@@ -127,8 +126,9 @@ a comedian or TV show you enjoy, or anything else you know will make you laugh.
 ```
 17. Use an anchoring phrase
 ```
-This might be something like, “I’m Full Name. I’m X years old. I live in City, State.  Today is Friday, 
-June 3. It’s 10:04 in the morning. I’m sitting at my desk at work. There’s no one else in the room.” 
+This might be something like, “I’m Full Name. I’m X years old. I live in City, State.  
+Today is Friday, June 3. It’s 10:04 in the morning. I’m sitting at my desk at work. 
+There’s no one else in the room.” 
 You can expand on the phrase by adding details until you feel calm, such as, “It’s raining lightly, 
 but I can still see the sun. It’s my break time. I’m thirsty, so I’m going to make a cup of tea.” 
 ```
