@@ -7,13 +7,14 @@
 Grounding is a practice that can help you pull away from flashbacks, unwanted memories, and negative or challenging emotions. 
 These techniques may help distract you from what you’re experiencing and refocus on what’s happening in the present moment. 
 You can use grounding techniques to help create space from distressing feelings in nearly any situation, but they’re especially helpful if you’re dealing with:
-   
+```   
     • anxiety
     • post-traumatic stress disorder
     • dissociation
     • self-harm urges
     • traumatic memories
     • substance use disorder
+```
 ---
 ### Physical techniques
 These techniques use your five senses or tangible objects — things you can touch — to help you move through distress. 
