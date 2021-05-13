@@ -128,9 +128,9 @@ a comedian or TV show you enjoy, or anything else you know will make you laugh.
 ```
 This might be something like, “I’m Full Name. I’m X years old. I live in City, State.  
 Today is Friday, June 3. It’s 10:04 in the morning. I’m sitting at my desk at work. 
-There’s no one else in the room.” 
-You can expand on the phrase by adding details until you feel calm, such as, “It’s raining lightly, 
-but I can still see the sun. It’s my break time. I’m thirsty, so I’m going to make a cup of tea.” 
+There’s no one else in the room.” You can expand on the phrase by adding details until you 
+feel calm, such as, “It’s raining lightly, but I can still see the sun. It’s my break time. 
+I’m thirsty, so I’m going to make a cup of tea.” 
 ```
 18. Visualize a daily task you enjoy or don’t mind doing
 ```
