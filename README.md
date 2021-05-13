@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.ibb.co/TKJpfkq/zzz.jpg" />
+</p>
+
 ## 30 Grounding Techniques to Quiet Distressing Thoughts
 
 Grounding is a practice that can help you pull away from flashbacks, unwanted memories, and negative or challenging emotions. 
