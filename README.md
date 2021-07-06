@@ -23,7 +23,11 @@
 
 1) ![30 Grounding Techniques to Quiet Distressing Thoughts](https://github.com/deedy5/deedy5.github.io/blob/main/30_ground_techniques%20.md)
 2) ![Mosca G. On the Ruling Class](https://github.com/deedy5/deedy5.github.io/raw/main/books/Mosca%20G.%20On%20the%20Ruling%20Class.djvu)
-3) ![Pareto V. The Circulation of Elites](https://github.com/deedy5/deedy5.github.io/raw/main/books/Pareto%20V.%20The%20Circulation%20of%20Elites.djvu)
-4) ![Pareto V. The Use of Force in Society](https://github.com/deedy5/deedy5.github.io/raw/main/books/Pareto%20V.%20The%20Use%20of%20Force%20in%20Society.djvu)
+3) ![Pareto V. Combinations and Group Persistence](https://github.com/deedy5/deedy5.github.io/raw/main/books/Pareto%20V.%20Combinations%20and%20Group%20Persistence.djvu)
+4) ![Pareto V. Cycles of Interdependence](https://github.com/deedy5/deedy5.github.io/raw/main/books/Pareto%20V.%20Cycles%20of%20Interdependence.djvu)
+5) ![Pareto V. On Logical and Non-Logical Action](https://github.com/deedy5/deedy5.github.io/raw/main/books/Pareto%20V.%20On%20Logical%20and%20Non-Logical%20Action.djvu)
+6) ![Pareto V. On the Equilibrium of the Social Systems](https://github.com/deedy5/deedy5.github.io/raw/main/books/Pareto%20V.%20On%20the%20Equilibrium%20of%20the%20Social%20Systems.djvu)
+7) ![Pareto V. The Circulation of Elites](https://github.com/deedy5/deedy5.github.io/raw/main/books/Pareto%20V.%20The%20Circulation%20of%20Elites.djvu)
+8) ![Pareto V. The Use of Force in Society](https://github.com/deedy5/deedy5.github.io/raw/main/books/Pareto%20V.%20The%20Use%20of%20Force%20in%20Society.djvu)
 
 
