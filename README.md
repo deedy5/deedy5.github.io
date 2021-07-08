@@ -30,4 +30,6 @@
 7) ![Pareto V. The Circulation of Elites](https://github.com/deedy5/deedy5.github.io/raw/main/books/Pareto%20V.%20The%20Circulation%20of%20Elites.djvu)
 8) ![Pareto V. The Use of Force in Society](https://github.com/deedy5/deedy5.github.io/raw/main/books/Pareto%20V.%20The%20Use%20of%20Force%20in%20Society.djvu)
 
-
+***
+### Guides
+1) ![Infiltrators guide](https://github.com/deedy5/deedy5.github.io/raw/main/books/Infiltrators%20guide.pdf)
